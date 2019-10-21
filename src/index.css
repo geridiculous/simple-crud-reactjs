@@ -666,3 +666,6 @@ caption {
   =============== */
 /* Layout
   =============== */
+  .text-danger{
+    color:red;
+  }

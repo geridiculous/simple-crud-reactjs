@@ -17,7 +17,7 @@ const BankEditForm = props => {
     setBank({ ...bank, [name]: value })
   }
 
-  return (
+  return ( 
     <form
       onSubmit={event => {
         event.preventDefault()
